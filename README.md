@@ -1,2 +1,2 @@
-# Shauna-Library-Management-System
- Library Management System using vb.net and ms access for the database.
+# Library Management System
+ Created using VB.net
